@@ -18,14 +18,4 @@ This repository contains a Deep Learning model implementation for training and p
 * Pandas
 * Matplotlib
 
-## Project Structure
-
-```
-DEEP_learning/
-│
-├── data/                # Dataset
-├── model/               # Saved trained model
-├── notebooks/           # Jupyter notebooks
-├── src/                 # Training and prediction scripts
-├── requirements
 ```
