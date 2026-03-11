@@ -21,7 +21,6 @@ This repository contains a Deep Learning model implementation for training and p
 
 ## Project Structure
 
-```
 DEEP_learning/
 │
 ├── data/                # Dataset
