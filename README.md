@@ -13,7 +13,7 @@ This repository contains a Deep Learning model implementation for training and p
 ## Technologies Used
 
 * Python
-* TensorFlow / Keras
+* TensorFlow / Keras .
 * NumPy
 * Pandas
 * Matplotlib
